@@ -1,0 +1,74 @@
+
+
+.selectModeCard * {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+.selectModeCard {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    font-size: 1rem;
+    padding: 1em;
+    border: solid whitesmoke 2px;
+    border-radius: 0.5em;
+    color:whitesmoke;
+    min-height: 32vh;
+    min-width: calc(32vh * 1.12);
+    text-align: center;
+
+}
+
+.selectModeCard__playmode {
+    background-color: #002460ff;
+    background-color: #2437a4;
+    background-color: #0c1962;
+    position: relative;
+    z-index: 4;
+    cursor:pointer;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-around;
+     
+}
+
+.selectModeCard__playmode + .selectModeCard__playmode {
+    margin-left: 1em;
+}
+
+.selectModeCard__playmode:hover{
+    transform: scale(1.02);
+}
+
+.selectModeCard__image-replacer {
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 8vh;
+    width: 8vh;
+    background-color: whitesmoke;
+    margin-bottom: 1.5em;
+}
+
+.selectModeCard__name {
+    font-size: 20px;
+    margin-bottom: 0.5em;
+}
+
+.selectModeCard__icon {
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 8vh;
+    width: 8vh;
+    /* background-color: whitesmoke; */
+    /* background-color: #002255ff; */
+    margin-bottom: 1.5em;
+    fill: whitesmoke
+}
+
+
+.selectModeCard__card__explainer{
+    font-size: 17px;
+}

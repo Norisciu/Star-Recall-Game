@@ -1,0 +1,44 @@
+.pauseMenu__wrapper {
+    position: absolute;
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgb(11, 11, 133) 100%);
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
+
+.pauseMenu__menu {
+    position: absolute;
+    top: 50%;
+    left : 50%;
+    transform: translate(-50% , -50%);
+    padding: 2em;
+    padding-bottom: 4em ;
+    border: solid whitesmoke 2px;
+    border-radius: 0.25em;
+    /* background-color: lightgray; */
+}
+
+.pauseMenu__header {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.pauseMenu__row {
+    width: 100%;
+
+
+}
+
+.pauseMenu__row + .pauseMenu__row {
+    margin-top: 1em;
+}
+
+.pauseMenu__button {
+    
+    padding: 0.5em 1.5em;
+    background-color: whitesmoke;
+    border-radius: 0.25em;
+    border: none;
+    cursor: pointer;
+}

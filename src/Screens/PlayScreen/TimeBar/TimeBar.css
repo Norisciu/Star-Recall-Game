@@ -1,0 +1,19 @@
+.timeBar__timebar {
+    width: 75%;
+    border-radius: 2em;
+    height: 1em;
+    background-color: rgba(245, 245, 245, 0.582);
+    border: solid 2px whitesmoke;
+    margin : 1em auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.timeBar__fill {
+    width: 90%;
+    height: 100%;
+    position: absolute;
+    /* height: 1em; */
+    /* background-color: wheat; */
+    background-color: #9cb8efff;
+}

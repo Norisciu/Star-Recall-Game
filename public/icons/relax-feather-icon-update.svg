@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="27.812mm" height="14.686mm" version="1.1" viewBox="0 0 27.811642 14.686166" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient905">
+   <stop stop-color="#a8cffd" offset="0"/>
+   <stop stop-color="#054db6" offset=".24816"/>
+   <stop stop-color="#054d9f" stop-opacity=".014085" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient972">
+   <stop stop-color="#e3dbdb" offset="0"/>
+   <stop stop-color="#2bdbcc" stop-opacity=".67451" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient974" x1="-170.59" x2="59.464" y1="272.43" y2="272.43" gradientTransform="translate(25.702 283.48)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient972"/>
+  <radialGradient id="radialGradient907" cx="-445.27" cy="117.39" r="24.054" gradientTransform="matrix(1.3333 0 0 1.3556 456.85 304.11)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient905"/>
+  <filter id="filter1859" x="-.121" y="-.11902" width="1.242" height="1.238" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.2339613"/>
+  </filter>
+  <linearGradient id="linearGradient932" x1="-170.59" x2="59.464" y1="272.43" y2="272.43" gradientTransform="translate(38.531 686.52)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient972"/>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(448 -1285.7)">
+  <rect x="-296.15" y="-58.794" width="528.41" height="376.46" fill="#003380" stroke-width=".26458"/>
+  <g fill="#fff">
+   <g stroke-width=".26458">
+    <rect x="-185.96" y="108.77" width="148.92" height="46.869" ry="7.5595"/>
+    <rect x="-185.96" y="159.61" width="148.92" height="46.869" ry="7.5595"/>
+    <rect x="-33.073" y="108.77" width="148.92" height="46.869" ry="7.5595"/>
+    <rect x="-33.073" y="159.61" width="148.92" height="46.869" ry="7.5595"/>
+   </g>
+   <rect x="-252.49" y="-22.768" width="10.583" height="27.214" ry="5.9531" fill-opacity=".89671" stroke-width=".28063"/>
+   <rect x="-237.67" y="-22.768" width="10.583" height="27.214" ry="5.9531" fill-opacity=".89671" stroke-width=".28063"/>
+  </g>
+  <text x="-135.72493" y="72.933731" fill="#ffffff" font-family="'Mongolian Baiti'" font-size="20.966px" letter-spacing="0px" stroke-width=".1092" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-135.72493" y="72.933731" fill="#ffffff" stroke-width=".1092">What stars where there ?</tspan></text>
+  <g fill="#000000" font-family="'Mongolian Baiti'" font-size="16.933px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="-142.11905" y="140.51785" style="line-height:1.25" xml:space="preserve"><tspan x="-142.11905" y="140.51785" stroke-width=".26458">Antares</tspan></text>
+   <text x="10.583331" y="139.7619" style="line-height:1.25" xml:space="preserve"><tspan x="10.583331" y="139.7619" stroke-width=".26458">Gacrux</tspan></text>
+   <text x="-139.09525" y="191.16667" style="line-height:1.25" xml:space="preserve"><tspan x="-139.09525" y="191.16667" stroke-width=".26458">Sirius</tspan></text>
+   <text x="6.8035693" y="191.92261" style="line-height:1.25" xml:space="preserve"><tspan x="6.8035693" y="191.92261" stroke-width=".26458">Bellatrix</tspan></text>
+  </g>
+  <g stroke-width=".26458">
+   <text x="89.958321" y="5.9583325" fill="#ffffff" font-family="'Mongolian Baiti'" font-size="16.933px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="89.958321" y="5.9583325" fill="#ffffff" stroke-width=".26458">Trial 1 of 9</tspan></text>
+   <rect x="348.19" y="-51.494" width="528.41" height="376.46" fill="#003380"/>
+   <rect x="397.33" y="-15.964" width="34.774" height="34.774" ry="5.2917" fill="#002459"/>
+  </g>
+  <text x="581.52271" y="63.333138" fill="#ffffff" font-family="'Mongolian Baiti'" font-size="20.966px" letter-spacing="0px" stroke-width=".1092" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="581.52271" y="63.333138" fill="#ffffff" stroke-width=".1092">Menu</tspan></text>
+  <rect x="510.04" y="15.786" width="194.28" height="236.61" ry="5.2917" fill="none" stroke="#fff"/>
+  <g fill="#fff" stroke-width=".21794">
+   <rect x="538.56" y="85.333" width="136.19" height="34.774" ry="5.6087"/>
+   <rect x="538.56" y="128.57" width="136.19" height="34.774" ry="5.6087" fill-opacity=".75943"/>
+   <rect x="538.03" y="173.93" width="136.19" height="34.774" ry="5.6087" fill-opacity=".65566"/>
+  </g>
+  <g fill="#000000" font-family="'Mongolian Baiti'" font-size="16.933px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="576.79163" y="196.45833" style="line-height:1.25" xml:space="preserve"><tspan x="576.79163" y="196.45833" stroke-width=".26458">Resume</tspan></text>
+   <text x="569.15649" y="108.38988" style="line-height:1.25" xml:space="preserve"><tspan x="569.15649" y="108.38988" stroke-width=".26458">Main menu</tspan></text>
+   <text x="578.5304" y="152.6131" style="line-height:1.25" xml:space="preserve"><tspan x="578.5304" y="152.6131" stroke-width=".26458">Settings</tspan></text>
+  </g>
+  <path d="m329.9 314.16a12.095 12.473 0 0 1 -13.462 6.7447 12.095 12.473 0 0 1 -9.5137 -11.915 12.095 12.473 0 0 1 9.0021 -12.331l3.0902 12.059z" fill="#e3dbdb" stroke="#fff"/>
+  <rect x="-149.64" y="80.838" width="228.97" height="12.771" ry="6.3855" fill="#e3dbdb" stroke="#fff" stroke-width="1.0801"/>
+  <rect x="-300.11" y="355.96" width="528.41" height="376.46" fill="#025" stroke-width=".26458"/>
+  <rect x="-144.35" y="549.53" width="228.97" height="12.771" ry="6.3855" fill="url(#linearGradient974)" stroke="#fff" stroke-width="1.0801"/>
+  <g fill="#f2f2f2">
+   <g font-family="'Mongolian Baiti'" font-size="16.933px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+    <text x="-60.476196" y="530.58929" style="line-height:1.25" xml:space="preserve"><tspan x="-60.476196" y="530.58929" fill="#f2f2f2" stroke-width=".26458">Loading..</tspan></text>
+    <text x="-60.476196" y="530.58929" style="line-height:1.25" xml:space="preserve"><tspan x="-60.476196" y="530.58929" fill="#f2f2f2" stroke-width=".26458">Loading..</tspan></text>
+    <text x="-60.476196" y="530.58929" style="line-height:1.25" xml:space="preserve"><tspan x="-60.476196" y="530.58929" fill="#f2f2f2" stroke-width=".26458">Loading..</tspan></text>
+   </g>
+   <circle cx="-207.13" cy="417.2" r="4.5357"/>
+  </g>
+  <g stroke-width=".26458">
+   <rect x="350.76" y="358.99" width="528.41" height="376.46" fill="#003380"/>
+   <rect x="464.15" y="522.27" width="148.92" height="46.869" ry="7.5595" fill="#faa"/>
+   <rect x="464.15" y="573.11" width="148.92" height="46.869" ry="7.5595" fill="#dbe3db"/>
+   <rect x="617.05" y="522.27" width="148.92" height="46.869" ry="7.5595" fill="#aade87"/>
+   <rect x="617.05" y="573.11" width="148.92" height="46.869" ry="7.5595" fill="#aade87"/>
+  </g>
+  <rect x="397.63" y="390.74" width="10.583" height="27.214" ry="5.9531" fill="#fff" fill-opacity=".89671" stroke-width=".28063"/>
+  <rect x="412.45" y="390.74" width="10.583" height="27.214" ry="5.9531" fill="#fff" fill-opacity=".89671" stroke-width=".28063"/>
+  <text x="514.3941" y="486.4397" fill="#ffffff" font-family="'Mongolian Baiti'" font-size="20.966px" letter-spacing="0px" stroke-width=".1092" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="514.3941" y="486.4397" fill="#ffffff" stroke-width=".1092">What stars where there ?</tspan></text>
+  <g fill="#000000" font-family="'Mongolian Baiti'" font-size="16.933px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="508" y="554.0238" style="line-height:1.25" xml:space="preserve"><tspan x="508" y="554.0238" stroke-width=".26458">Antares</tspan></text>
+   <text x="660.70239" y="553.26788" style="line-height:1.25" xml:space="preserve"><tspan x="660.70239" y="553.26788" stroke-width=".26458">Gacrux</tspan></text>
+   <text x="515.78638" y="602.55591" style="line-height:1.25" xml:space="preserve"><tspan x="515.78638" y="602.55591" stroke-width=".26458">Sirius</tspan></text>
+   <text x="656.92261" y="601.72437" style="line-height:1.25" xml:space="preserve"><tspan x="656.92261" y="601.72437" stroke-width=".26458">Bellatrix</tspan></text>
+  </g>
+  <text x="740.07739" y="419.46429" fill="#ffffff" font-family="'Mongolian Baiti'" font-size="16.933px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="740.07739" y="419.46429" fill="#ffffff" stroke-width=".26458">Trial 1 of 9</tspan></text>
+  <rect x="500.48" y="494.34" width="228.97" height="12.771" ry="6.3855" fill="#e3dbdb" stroke="#fff" stroke-width="1.0801"/>
+  <g fill="#000000" font-family="'Mongolian Baiti'" font-size="16.933px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="656.92261" y="601.72437" style="line-height:1.25" xml:space="preserve"><tspan x="656.92261" y="601.72437" stroke-width=".26458">Bellatrix</tspan></text>
+   <text x="660.70239" y="553.26788" style="line-height:1.25" xml:space="preserve"><tspan x="660.70239" y="553.26788" stroke-width=".26458">Gacrux</tspan></text>
+   <text x="515.78638" y="602.55591" style="line-height:1.25" xml:space="preserve"><tspan x="515.78638" y="602.55591" stroke-width=".26458">Sirius</tspan></text>
+   <text x="508" y="554.0238" style="line-height:1.25" xml:space="preserve"><tspan x="508" y="554.0238" stroke-width=".26458">Antares</tspan></text>
+  </g>
+  <g>
+   <ellipse transform="matrix(1.0977 0 0 1.0977 243.75 -59.88)" cx="-136.84" cy="463.24" rx="32.072" ry="32.607" fill="url(#radialGradient907)" filter="url(#filter1859)" stroke-width=".35972"/>
+   <rect x="-218.09" y="1222.8" width="209.54" height="221.3" ry="13.898" fill="#133271" stroke-width=".26458"/>
+   <rect x="-144.35" y="549.53" width="228.97" height="12.771" ry="6.3855" fill="url(#linearGradient974)" stroke="#fff" stroke-width="1.0801"/>
+  </g>
+  <rect x="-287.28" y="759.01" width="528.41" height="376.46" fill="#025" stroke-width=".26458"/>
+  <rect x="-131.52" y="952.57" width="228.97" height="12.771" ry="6.3855" fill="url(#linearGradient932)" stroke="#fff" stroke-width="1.0801"/>
+  <g fill="#f2f2f2">
+   <g font-family="'Mongolian Baiti'" font-size="16.933px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+    <text x="-47.647259" y="933.63177" style="line-height:1.25" xml:space="preserve"><tspan x="-47.647259" y="933.63177" fill="#f2f2f2" stroke-width=".26458">Loading..</tspan></text>
+    <text x="-47.647259" y="933.63177" style="line-height:1.25" xml:space="preserve"><tspan x="-47.647259" y="933.63177" fill="#f2f2f2" stroke-width=".26458">Loading..</tspan></text>
+    <text x="-47.647259" y="933.63177" style="line-height:1.25" xml:space="preserve"><tspan x="-47.647259" y="933.63177" fill="#f2f2f2" stroke-width=".26458">Loading..</tspan></text>
+   </g>
+   <circle cx="-194.3" cy="820.24" r="4.5357"/>
+  </g>
+  <g>
+   <ellipse transform="matrix(1.0977 0 0 1.0977 256.58 343.16)" cx="-136.84" cy="463.24" rx="32.072" ry="32.607" fill="url(#radialGradient907)" filter="url(#filter1859)" stroke-width=".35972"/>
+   <rect x="-131.52" y="952.57" width="228.97" height="12.771" ry="6.3855" fill="#133271" stroke="#fff" stroke-width="1.0801"/>
+   <rect x="-131.52" y="952.3" width="126.61" height="13.04" ry="6.5198" fill="#9cb8ef"/>
+  </g>
+  <rect x="-274.17" y="1162" width="528.41" height="376.46" fill="#025" stroke-width=".26458"/>
+  <rect x="338.39" y="1108.3" width="126.1" height="139.33" ry="8.7502" fill="#f2f2f2" stroke="#004dc0" stroke-width="4"/>
+  <rect x="8.5526" y="1298.5" width="131.84" height="145.67" ry="9.1483" fill="#004dc0" fill-opacity=".31132" stroke="#fff" stroke-width="1.7248"/>
+  <g>
+   <rect x="-159.91" y="1300.6" width="131.84" height="145.67" ry="9.1483" fill="#002460" stroke="#002460"/>
+   <text x="-121.87491" y="1248.4795" fill="#ffffff" font-family="sans-serif" font-size="25.4px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-121.87491" y="1248.4795" fill="#ffffff" stroke-width=".26458">Select play mode</tspan></text>
+   <circle cx="-94.511" cy="1338.2" r="20.312" fill="#f9f9f9"/>
+  </g>
+  <g fill="#ffffff" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+   <text x="-126.37022" y="1390.2612" font-size="20.512px" stroke-width=".21367" style="line-height:1.25" xml:space="preserve"><tspan x="-126.37022" y="1390.2612" fill="#ffffff" font-size="15.954px" stroke-width=".21367">Counter</tspan></text>
+   <text x="-149.04189" y="1410.728" font-size="12.508px" stroke-width=".19544" style="line-height:1.25" xml:space="preserve"><tspan x="-149.04189" y="1410.728" fill="#ffffff" font-size="12.508px" stroke-width=".19544">Play against time</tspan></text>
+   <text x="-126.37022" y="1390.2612" font-size="20.512px" stroke-width=".21367" style="line-height:1.25" xml:space="preserve"><tspan x="-126.37022" y="1390.2612" fill="#ffffff" font-size="15.954px" stroke-width=".21367">Counter</tspan></text>
+  </g>
+  <g transform="matrix(.99995 0 0 1.0137 168.46 -21.953)" stroke="#9cb8ef">
+   <rect x="-159.91" y="1300.6" width="131.84" height="145.67" ry="9.1483" fill="#002460"/>
+   <circle cx="-94.511" cy="1338.2" r="20.312" fill="#f9f9f9" stroke-width=".7037"/>
+   <g fill="#ffffff" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+    <text x="-118.43279" y="1391.3196" font-size="20.512px" stroke-width=".21367" style="line-height:1.25" xml:space="preserve"><tspan x="-118.43279" y="1391.3196" fill="#ffffff" font-size="15.954px" stroke="#9cb8ef" stroke-width=".21367">Relax</tspan></text>
+    <text x="-149.04189" y="1410.728" font-size="12.508px" stroke-width=".19544" style="line-height:1.25" xml:space="preserve"><tspan x="-149.04189" y="1410.728" fill="#ffffff" font-size="12.508px" stroke="#9cb8ef" stroke-width=".19544">Play without time</tspan></text>
+    <text x="-133.4213" y="1380.736" font-size="20.512px" stroke-width=".21367" style="line-height:1.25" xml:space="preserve"><tspan x="-133.4213" y="1399.4498" fill="#ffffff" font-size="15.954px" stroke="#9cb8ef" stroke-width=".21367"/></text>
+    <text x="-118.43279" y="1391.3196" font-size="20.512px" stroke-width=".21367" style="line-height:1.25" xml:space="preserve"><tspan x="-118.43279" y="1391.3196" fill="#ffffff" font-size="15.954px" stroke="#9cb8ef" stroke-width=".21367">Relax</tspan></text>
+   </g>
+  </g>
+  <circle cx="138.72" cy="1294.6" r="14.967" fill="#f9f9f9"/>
+  <g transform="matrix(.20815 .20815 -.20815 .20815 359.77 1014.1)" fill="#9cb8ef">
+   <rect x="111.18" y="1210" width="44.901" height="16.036" ry="8.0181"/>
+   <rect transform="rotate(-90)" x="-1226" y="140.05" width="58.799" height="16.036" ry="8.0181"/>
+  </g>
+  <circle cx="-32.75" cy="1299.7" r="14.967" fill="#f9f9f9" stroke="#004dc0" stroke-width="1.619"/>
+  <g transform="matrix(.20815 .20815 -.20815 .20815 188.3 1019.3)" fill="#225dd5">
+   <rect x="111.18" y="1210" width="44.901" height="16.036" ry="8.0181"/>
+   <rect transform="rotate(-90)" x="-1226" y="140.05" width="58.799" height="16.036" ry="8.0181"/>
+  </g>
+  <circle cx="-403.04" cy="1202.5" r="21.382" fill="#003380" stroke-width=".13568"/>
+  <path d="m-397.64 1207.1s0 0.533-3.7798 0.9207c-3.7798 0.3877-5.7666-0.4846-5.7666-0.4846s0.87225-0.7269 0.96916-0.7753c0.0969-0.048-1.4053 0.6299-1.4053 0.6299l-1.2115-0.1938s1.0661-0.2423 1.2115-0.6784c0.14537-0.4361-2.859-0.048-2.859-0.048s-3.2952-1.3084-4.3128-3.8282c-1.0176-2.5199 0.67842-0.9692 0.67842-0.9692s-0.96917-0.5815-1.5507-1.6476-0.33921-1.163-0.33921-1.163 1.5991 1.9868 1.7445 1.5022c0.14537-0.4846-1.3084-1.5022-1.0661-2.1806 0.24229-0.6785-0.0485-0.9692 1.2599-2.2776 1.3084-1.3083 1.9868 0.097 1.9868 0.097s-0.14537-0.5814-0.43612-1.0661c-0.29076-0.4845 0.72687-0.3876 1.8899 1.0661 1.163 1.4538-0.72687-1.5506-0.72687-1.5506s1.4053-0.2423 2.4229 0c1.0176 0.2422 3.0044 1.3568 3.1983 2.1321 0.19383 0.7754-0.0969-0.8722-0.0969-0.8722s0.53304 0.2907 1.0176 0.4361 0.19383 1.5022 0.19383 1.5022l0.2423-0.8722s3.1983 2.0837 4.4097 5.4758 2.6652 1.6476 2.6652 1.6476-1.2599-0.048-1.9868-1.5992c-0.72688-1.5506 2.9075 1.4538 3.5375 0.5815 0.62996-0.8722 1.163 0.8238 1.163 0.8238s4.0995-3.1621 5.844-4.9066-3.2757 4.8097-4.9233 5.5366-10.273 2.5198-15.458-1.0661c-5.1851-3.5859-3.8282-2.5683-3.8282-2.5683s0.96917 1.5991 3.1983 2.7622c2.2291 1.1629 5.7666 2.7136 8.141 2.4229 2.3745-0.2908 5.4758 0.2907 7.0749-0.8723s0.96917 1.3568 0.96917 1.3568-4.0221 4.2159-6.1058 1.7446c-2.0837-2.4714 2.0353-1.0177 2.0353-1.0177z" fill="#fff" stroke="#fff" stroke-width=".13568px"/>
+  <circle cx="73.831" cy="1334.7" r="21.382" fill="#025" stroke-width=".13568"/>
+  <path d="m79.238 1339.3s0 0.533-3.7798 0.9207c-3.7798 0.3877-5.7666-0.4846-5.7666-0.4846s0.87225-0.7269 0.96916-0.7753c0.0969-0.048-1.4053 0.6299-1.4053 0.6299l-1.2115-0.1938s1.0661-0.2423 1.2115-0.6784c0.14537-0.4361-2.859-0.048-2.859-0.048s-3.2952-1.3084-4.3128-3.8282c-1.0176-2.5199 0.67842-0.9692 0.67842-0.9692s-0.96917-0.5815-1.5507-1.6476-0.33921-1.163-0.33921-1.163 1.5991 1.9868 1.7445 1.5022c0.14537-0.4846-1.3084-1.5022-1.0661-2.1806 0.24229-0.6785-0.0485-0.9692 1.2599-2.2776 1.3084-1.3083 1.9868 0.097 1.9868 0.097s-0.14537-0.5814-0.43612-1.0661c-0.29076-0.4845 0.72687-0.3876 1.8899 1.0661 1.163 1.4538-0.72687-1.5506-0.72687-1.5506s1.4053-0.2423 2.4229 0c1.0176 0.2422 3.0044 1.3568 3.1983 2.1321 0.19383 0.7754-0.0969-0.8722-0.0969-0.8722s0.53304 0.2907 1.0176 0.4361 0.19383 1.5022 0.19383 1.5022l0.2423-0.8722s3.1983 2.0837 4.4097 5.4758 2.6652 1.6476 2.6652 1.6476-1.2599-0.048-1.9868-1.5992c-0.72688-1.5506 2.9075 1.4538 3.5375 0.5815 0.62996-0.8722 1.163 0.8238 1.163 0.8238s4.0995-3.1621 5.844-4.9066-3.2757 4.8097-4.9233 5.5366-10.273 2.5198-15.458-1.0661c-5.1851-3.5859-3.8282-2.5683-3.8282-2.5683s0.96917 1.5991 3.1983 2.7622c2.2291 1.1629 5.7666 2.7136 8.141 2.4229 2.3745-0.2908 5.4758 0.2907 7.0749-0.8723s0.96917 1.3568 0.96917 1.3568-4.0221 4.2159-6.1058 1.7446c-2.0837-2.4714 2.0353-1.0177 2.0353-1.0177z" fill="#fff" stroke="#fff" stroke-width=".13568px"/>
+  <path d="m-429.52 1298.5s0 0.533-3.7798 0.9207c-3.7798 0.3877-5.7666-0.4846-5.7666-0.4846s0.87225-0.7269 0.96916-0.7753c0.0969-0.048-1.4053 0.6299-1.4053 0.6299l-1.2115-0.1938s1.0661-0.2423 1.2115-0.6784c0.14537-0.4361-2.859-0.048-2.859-0.048s-3.2952-1.3084-4.3128-3.8282c-1.0176-2.5199 0.67842-0.9692 0.67842-0.9692s-0.96917-0.5815-1.5507-1.6476-0.33921-1.163-0.33921-1.163 1.5991 1.9868 1.7445 1.5022c0.14537-0.4846-1.3084-1.5022-1.0661-2.1806 0.24229-0.6785-0.0485-0.9692 1.2599-2.2776 1.3084-1.3083 1.9868 0.097 1.9868 0.097s-0.14537-0.5814-0.43612-1.0661c-0.29076-0.4845 0.72687-0.3876 1.8899 1.0661 1.163 1.4538-0.72687-1.5506-0.72687-1.5506s1.4053-0.2423 2.4229 0c1.0176 0.2422 3.0044 1.3568 3.1983 2.1321 0.19383 0.7754-0.0969-0.8722-0.0969-0.8722s0.53304 0.2907 1.0176 0.4361 0.19383 1.5022 0.19383 1.5022l0.2423-0.8722s3.1983 2.0837 4.4097 5.4758 2.6652 1.6476 2.6652 1.6476-1.2599-0.048-1.9868-1.5992c-0.72688-1.5506 2.9075 1.4538 3.5375 0.5815 0.62996-0.8722 1.163 0.8238 1.163 0.8238s4.0995-3.1621 5.844-4.9066-3.2757 4.8097-4.9233 5.5366-10.273 2.5198-15.458-1.0661c-5.1851-3.5859-3.8282-2.5683-3.8282-2.5683s0.96917 1.5991 3.1983 2.7622c2.2291 1.1629 5.7666 2.7136 8.141 2.4229 2.3745-0.2908 5.4758 0.2907 7.0749-0.8723s0.96917 1.3568 0.96917 1.3568-4.0221 4.2159-6.1058 1.7446c-2.0837-2.4714 2.0353-1.0177 2.0353-1.0177z" fill="#fff" stroke="#fff" stroke-width=".13568px"/>
+ </g>
+</svg>

@@ -1,0 +1,15 @@
+.endGameScreen__container {
+    text-align: center;
+    margin: auto;
+    max-width: 20vw;
+}
+
+.endGameScreen__button {
+    display: block;
+    margin: 1em auto ;
+    padding: 0.5em 5em;
+    background-color: whitesmoke;
+    border-radius: 0.25em;
+    border: none;
+    cursor: pointer;
+}   
